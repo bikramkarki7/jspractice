@@ -1,2 +1,2 @@
 # jspractice
-practiceee
+practiceee from Asabeneh/30-Days-Of-JavaScript

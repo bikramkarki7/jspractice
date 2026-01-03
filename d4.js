@@ -592,3 +592,4 @@
 
 // console.log(firstHalf);
 // console.log(secondHalf);
+//console.log
